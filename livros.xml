@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bookstore>
+  <book category="ROMANCE">
+    <nome lang="en">A Ultima Musica</nome>
+    <autor>Nicholas Sparks</autor>
+    <ano>2014</ano>
+    <price>20.00</price>
+  </book>
+  <book category="ROMANCE">
+    <nome lang="en">A Culpa e das Estrelas</nome>
+    <autor>John Green</autor>
+    <ano>2012</ano>
+    <price>25.99</price>
+  </book>
+  <book category="BIOGRAPHY">
+    <nome lang="en-us">A Teoria de Tudo</nome>
+    <autor>Jane Hawking</autor>
+    <ano>2014</ano>
+    <price>29.99</price>
+  </book>
+</bookstore>
